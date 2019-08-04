@@ -1,8 +1,8 @@
 {
-  "name": "graph.gl",
-  "description": "graph.gl",
-  "author": "Javid Hsueh",
-  "user": "javidhsueh",
+  "name": "mlvis",
+  "description": "mlvis",
+  "author": "Lezhi Li",
+  "user": "Firenze11",
   "version": "0.0.1",
   "scripts": {},
   "main": "index",
@@ -10,16 +10,16 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/javidhsueh/graph.gl.git"
+    "url": "git+https://github.com/Firenze11/mlvis.git"
   },
   "keywords": [
-    "react",
-    "reactjs",
-    "graph"
+    "ml",
+    "visualization",
+    "react"
   ],
   "bugs": {
-    "url": "https://github.com/javidhsueh/graph.gl/issues"
+    "url": "https://github.com/Firenze11/mlvis/issues"
   },
-  "homepage": "https://github.com/javidhsueh/graph.gl#readme",
+  "homepage": "https://github.com/Firenze11/mlvis#readme",
   "license": "MIT"
 }
