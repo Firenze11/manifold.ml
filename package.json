@@ -1,6 +1,6 @@
 {
-  "name": "mlvis",
-  "description": "mlvis",
+  "name": "manifold.ml",
+  "description": "manifold.ml",
   "author": "Lezhi Li",
   "user": "Firenze11",
   "version": "0.0.1",
@@ -10,7 +10,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Firenze11/mlvis.git"
+    "url": "git+https://github.com/Firenze11/manifold.ml.git"
   },
   "keywords": [
     "ml",
@@ -18,8 +18,8 @@
     "react"
   ],
   "bugs": {
-    "url": "https://github.com/Firenze11/mlvis/issues"
+    "url": "https://github.com/Firenze11/manifold.ml/issues"
   },
-  "homepage": "https://github.com/Firenze11/mlvis#readme",
-  "license": "MIT"
+  "homepage": "https://github.com/Firenze11/manifold.ml#readme",
+  "license": "Apache-2.0"
 }
